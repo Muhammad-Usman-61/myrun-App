@@ -11,6 +11,12 @@ body{
     #removePadding {
         margin-bottom: 0 !important;
     }
+    .container{
+        padding-top: 0 !important;
+    }
+    #lastText{
+        margin-top: 0 !important;
+    }
 }
 
   @keyframes animate {
